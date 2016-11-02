@@ -1,5 +1,4 @@
 # MIPS
-MIPS Assembly Programming
 
 These are the two MIPS assembly programming assignments from CDA3101 Introduction to Computer Organization. Essentially,
 we were provided an algorithm in pseudocode and were asked to translate it into the MIPS assembly language. In HW1, we
